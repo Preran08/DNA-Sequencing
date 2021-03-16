@@ -1,6 +1,8 @@
 # DNA-Sequencing Using NLP
 ### Using the human.txt dataset from Kaggle 
 
+"C:\Users\vprer\OneDrive\Pictures\Screenshots\Screenshot (33).png"
+
 
 ### We have some data for human DNA sequence coding regions and a class label.  We also have data for Chimpanzee and a more divergent species, the dog.
 
@@ -29,4 +31,5 @@ In genomics, we refer to these types of manipulations as "k-mer counting", or co
 ### A multinomial naive Bayes classifier will be created.  I previously did some parameter tuning and found the ngram size of 4 (reflected in the Countvectorizer() instance) and a model alpha of 0.1 did the best.
 
 ### Looking at some model performce metrics like the confusion matrix, accuracy, precision, recall and f1 score.  We are getting really good results on our unseen data, so it looks like our model did not overfit to the training data.
+
 
