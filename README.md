@@ -1,7 +1,6 @@
 # DNA-Sequencing Using NLP
 ### Using the human.txt dataset from Kaggle 
-"C:\Users\vprer\OneDrive\Pictures\Screenshots\Screenshot (33).png"
-
+![Screenshot (33)](https://user-images.githubusercontent.com/38466518/111237008-8703e700-85ca-11eb-8cf1-9759c18b5b70.png)
 ### We have some data for human DNA sequence coding regions and a class label.  We also have data for Chimpanzee and a more divergent species, the dog.
 
 
